@@ -1,0 +1,22 @@
+body{
+	background-color:#f4f4f4;
+	color:rgb(181, 71, 255);
+
+	font: normal 20px Arial,Helvetica,sans serif;
+
+	line-height: 4.6em;
+	margin: 4em;
+	padding: 20px;
+
+	border: 1.6em rgb(181, 71, 255) solid; 
+
+}
+
+h1{
+	color:#f4f4f4;
+}
+
+.box-1{
+	background-color: #35424a;
+
+}
